@@ -126,6 +126,7 @@
     text-align: center;
     margin: 2px;
     display: none;
+    margin-top:15px;
 }
 
 #myBtnContainer .btn {
@@ -147,8 +148,8 @@
 }
 
 /*search*/
-.col-sm-4 {
-    /* background-color: lavender; */
+/* .col-sm-4 {
+    background-color: lavender;
     margin-bottom: 30px;
 }
 
@@ -173,7 +174,7 @@
 
 input[type=text]:focus {
     width: 80%;
-}
+} */
 
 /* .id_suggesstions {
     background-color: orange !important;

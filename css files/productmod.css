@@ -286,3 +286,7 @@ body {
     background-color: gold;
     color: black;
 }
+
+#imgfile{
+    padding-bottom: 3.5% !important;
+}

@@ -32,16 +32,15 @@ $qty = 1;
       <!-- end of filter and sort -->
 
       <!-- start search -->
-      <div class="col-sm-4">
+      <!-- <div class="col-sm-4">
         <form class="sea" method="post">
           <input type="text" id="search" name="search" placeholder="Search..">
         </form>
-        <div id="id_suggesstions">
+        <div id="id_suggesstions"> -->
           <!-- result show area -->
-        </div>
-
-      </div>
-      <script>
+        <!-- </div>
+      </div> -->
+      <!-- <script>
         $(document).ready(function() {
           // when any character press on the input field keyup function call
           $("#search").keyup(function() {
@@ -67,7 +66,7 @@ $qty = 1;
           $("#search").val(selected_value);
           $("#id_suggesstions").hide();
         }
-      </script>
+      </script> -->
 
 
       <!-- end of searching -->
