@@ -1,3 +1,6 @@
+This is the BSC group project focus on managing a software development by applying Agile methodology. Online Bakery Shop is the e-commerce system that sell bakery product. The technology that applied are Flask, Python language, Html, Css, Javascript.
+
+
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
